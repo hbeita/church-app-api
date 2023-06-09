@@ -1,7 +1,7 @@
 databases:
   - name: church-app-api
     databaseName: church_app_api_production
-    user: church-app-api
+    user: churchAppApi
 
 services:
   - type: web
